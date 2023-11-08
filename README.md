@@ -1,2 +1,2 @@
 # notebooks
-Notebooks for Stability AI models
+Notebooks demonstrating Stability AI models
