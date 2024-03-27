@@ -1,0 +1,8 @@
+optimum-intel==1.15.0
+openvino==2024.0.0
+nncf==2.8.0
+numpy==1.26.4
+einops==0.7.0
+onnx==1.15.0
+gradio==4.19.2
+jupyterlab==4.1.5
